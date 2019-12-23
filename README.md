@@ -1,4 +1,4 @@
-# Solaris++-
+# Solaris++
 TID: 5
 
 
